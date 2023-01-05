@@ -36,10 +36,10 @@ class _LoginScreenState extends State<LoginScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.transparent,
+        backgroundColor: secondaryColor,
         elevation: 0,
       ),
-      backgroundColor: Color(0xFFE44E11),
+      backgroundColor: secondaryColor,
       body: SingleChildScrollView(
         child: Container(
           margin: EdgeInsets.symmetric(horizontal: 15),
@@ -134,7 +134,7 @@ class _LoginScreenState extends State<LoginScreen> {
               TextButton(onPressed: (){
                 Navigator.push(context, MaterialPageRoute(builder: (context)=>SignUpPage()));
               }, child: Text('Signup',style: TextStyle(color: Colors.white,fontSize: 15,),)),
-              SizedBox(height: 100),
+              SizedBox(height: 50),
               Align(
                 alignment: Alignment.bottomCenter,
                 child: _buildFooterLogo(),
@@ -154,7 +154,7 @@ class _LoginScreenState extends State<LoginScreen> {
     return Container(
       padding: EdgeInsets.symmetric(horizontal: 10, vertical: 5),
       decoration: BoxDecoration(
-          color: Color(0xFFE44E11), border: Border.all(color: Colors.white)),
+          color: secondaryColor, border: Border.all(color: Colors.white)),
       child: TextField(
         controller: controller,
         style: TextStyle(color: Colors.white),
@@ -178,7 +178,7 @@ class _LoginScreenState extends State<LoginScreen> {
       children: <Widget>[
         Image.asset(
           'assets/splashorange.jpeg',
-          height: 80,
+          height: 40,
         ),
         Text('The Growing Developer',
             textAlign: TextAlign.center,

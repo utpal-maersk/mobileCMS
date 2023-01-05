@@ -1,20 +1,26 @@
 -- Merging decision tree log ---
 application
-INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/android/app/src/main/AndroidManifest.xml:3:4-33:19
-MERGED from [:firebase_auth] /Users/Utpal.Gohain/Documents/mobilecms/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
-MERGED from [:firebase_auth] /Users/Utpal.Gohain/Documents/mobilecms/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
-MERGED from [:firebase_core] /Users/Utpal.Gohain/Documents/mobilecms/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
-MERGED from [:firebase_core] /Users/Utpal.Gohain/Documents/mobilecms/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/android/app/src/main/AndroidManifest.xml:3:4-33:19
+MERGED from [:firebase_auth] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_auth] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:cloud_firestore] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:cloud_firestore] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_core] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_core] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/Utpal.Gohain/.gradle/caches/transforms-3/1f3f3c7bf247259442b6db1757087228/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/Utpal.Gohain/.gradle/caches/transforms-3/1f3f3c7bf247259442b6db1757087228/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
 MERGED from [com.google.firebase:firebase-analytics:21.2.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/6890b76743dcf1df35650871ecd4ef14/transformed/jetified-firebase-analytics-21.2.0/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-analytics:21.2.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/6890b76743dcf1df35650871ecd4ef14/transformed/jetified-firebase-analytics-21.2.0/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-auth:21.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/43c5f263eb794b586c80a8388e37087b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:26:5-71:19
 MERGED from [com.google.firebase:firebase-auth:21.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/43c5f263eb794b586c80a8388e37087b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-firestore:24.4.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/401925b95afccb13c7fac3afcf55fe77/transformed/jetified-firebase-firestore-24.4.0/AndroidManifest.xml:15:5-23:19
+MERGED from [com.google.firebase:firebase-firestore:24.4.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/401925b95afccb13c7fac3afcf55fe77/transformed/jetified-firebase-firestore-24.4.0/AndroidManifest.xml:15:5-23:19
 MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/285e822d29c844700c17710787a39cc1/transformed/jetified-play-services-measurement-api-21.2.0/AndroidManifest.xml:27:5-35:19
 MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/285e822d29c844700c17710787a39cc1/transformed/jetified-play-services-measurement-api-21.2.0/AndroidManifest.xml:27:5-35:19
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/8816ad617f24220d8544399eca1791cd/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/8816ad617f24220d8544399eca1791cd/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/24e7b62f90a052134e46a86ab0fb4f89/transformed/jetified-firebase-appcheck-interop-16.1.0/AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/24e7b62f90a052134e46a86ab0fb4f89/transformed/jetified-firebase-appcheck-interop-16.1.0/AndroidManifest.xml:23:5-20
 MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/e68ba13c8172f46f3c33864f285e2e5f/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:13:5-21:19
 MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/e68ba13c8172f46f3c33864f285e2e5f/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:13:5-21:19
 MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/edc91e27a4567f9bfc56f4f116964551/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:24:5-37:19
@@ -52,23 +58,26 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/Utpa
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.6.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/5c8a81cf2eef89498ff1a72fe119bcdb/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
 	android:name
-		INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/android/app/src/main/AndroidManifest.xml
 manifest
-ADDED from /Users/Utpal.Gohain/Documents/mobilecms/android/app/src/main/AndroidManifest.xml:1:1-34:12
-INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/android/app/src/main/AndroidManifest.xml:1:1-34:12
-INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/android/app/src/main/AndroidManifest.xml:1:1-34:12
-INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/android/app/src/main/AndroidManifest.xml:1:1-34:12
-MERGED from /Users/Utpal.Gohain/Documents/mobilecms/android/app/src/main/AndroidManifest.xml:1:1-34:12
-MERGED from [:firebase_auth] /Users/Utpal.Gohain/Documents/mobilecms/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
-MERGED from [:firebase_core] /Users/Utpal.Gohain/Documents/mobilecms/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
-MERGED from [:path_provider_android] /Users/Utpal.Gohain/Documents/mobilecms/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:google_sign_in_android] /Users/Utpal.Gohain/Documents/mobilecms/build/google_sign_in_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+ADDED from /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from [:firebase_auth] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:cloud_firestore] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:firebase_core] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:path_provider_android] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:google_sign_in_android] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/google_sign_in_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/Utpal.Gohain/.gradle/caches/transforms-3/2cd42c421c5fcc666c6d478b9d0f93cc/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/Utpal.Gohain/.gradle/caches/transforms-3/1f3f3c7bf247259442b6db1757087228/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
 MERGED from [com.google.firebase:firebase-analytics:21.2.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/6890b76743dcf1df35650871ecd4ef14/transformed/jetified-firebase-analytics-21.2.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-auth:21.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/43c5f263eb794b586c80a8388e37087b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:17:1-73:12
+MERGED from [com.google.firebase:firebase-firestore:24.4.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/401925b95afccb13c7fac3afcf55fe77/transformed/jetified-firebase-firestore-24.4.0/AndroidManifest.xml:2:1-25:12
 MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/285e822d29c844700c17710787a39cc1/transformed/jetified-play-services-measurement-api-21.2.0/AndroidManifest.xml:17:1-37:12
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/8816ad617f24220d8544399eca1791cd/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/24e7b62f90a052134e46a86ab0fb4f89/transformed/jetified-firebase-appcheck-interop-16.1.0/AndroidManifest.xml:15:1-25:12
 MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/e68ba13c8172f46f3c33864f285e2e5f/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:2:1-23:12
 MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/edc91e27a4567f9bfc56f4f116964551/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:15:1-39:12
 MERGED from [com.google.android.gms:play-services-auth:20.4.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/12a15639dfa97a722867b197587317d2/transformed/jetified-play-services-auth-20.4.0/AndroidManifest.xml:17:1-40:12
@@ -76,6 +85,7 @@ MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/
 MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/Utpal.Gohain/.gradle/caches/transforms-3/89e1a49c5b1206e9b4ca4973d03d43a2/transformed/jetified-play-services-auth-base-18.0.4/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-fido:19.0.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/8955a3a4e658c64b272d3cc40dac535e/transformed/jetified-play-services-fido-19.0.0/AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/dd9c1e186ca760bae21c49feebd17e86/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/Utpal.Gohain/.gradle/caches/transforms-3/a03106724fc980773a0f7d4e9eda05c2/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/Utpal.Gohain/.gradle/caches/transforms-3/32dbb57a76a26ea3fd4575a4c674ce2e/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
 MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/5bc7d4e1a9065a03cf2700b139626bff/transformed/jetified-firebase-installations-interop-17.1.0/AndroidManifest.xml:15:1-22:12
 MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/Utpal.Gohain/.gradle/caches/transforms-3/024690ae6ed717465ce4e877d159bcb8/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
@@ -109,36 +119,40 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Utpal.Gohain/.grad
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/f0c74222cd24754916979275072f9ffe/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/26dcbbfd0d6ef29fc456b20469d9c68e/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/6d199a50287313401ca5707ba8580989/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [io.grpc:grpc-android:1.48.1] /Users/Utpal.Gohain/.gradle/caches/transforms-3/b025be4549bc2a4ddb5d7f653c62a8f1/transformed/jetified-grpc-android-1.48.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/8190a90120461b35bd613031b91eaad7/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/e8991c05e5aa97ef430aee779507bef9/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/android/app/src/debug/AndroidManifest.xml:1:1-8:12
-INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/android/app/src/debug/AndroidManifest.xml:1:1-8:12
-INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/android/app/src/debug/AndroidManifest.xml:1:1-8:12
 	package
-		ADDED from /Users/Utpal.Gohain/Documents/mobilecms/android/app/src/main/AndroidManifest.xml:2:5-36
-		INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/android/app/src/debug/AndroidManifest.xml
+		ADDED from /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/android/app/src/main/AndroidManifest.xml:2:5-36
+		INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Utpal.Gohain/Documents/mobilecms/android/app/src/main/AndroidManifest.xml:1:1-34:12
-		INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/android/app/src/debug/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Utpal.Gohain/Documents/mobilecms/android/app/src/main/AndroidManifest.xml:1:1-34:12
-		INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/Utpal.Gohain/Documents/mobilecms/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-sdk
-INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/android/app/src/main/AndroidManifest.xml
-MERGED from [:firebase_auth] /Users/Utpal.Gohain/Documents/mobilecms/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:firebase_auth] /Users/Utpal.Gohain/Documents/mobilecms/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:firebase_core] /Users/Utpal.Gohain/Documents/mobilecms/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:firebase_core] /Users/Utpal.Gohain/Documents/mobilecms/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:path_provider_android] /Users/Utpal.Gohain/Documents/mobilecms/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:path_provider_android] /Users/Utpal.Gohain/Documents/mobilecms/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:google_sign_in_android] /Users/Utpal.Gohain/Documents/mobilecms/build/google_sign_in_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:google_sign_in_android] /Users/Utpal.Gohain/Documents/mobilecms/build/google_sign_in_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/android/app/src/main/AndroidManifest.xml
+MERGED from [:firebase_auth] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_auth] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:cloud_firestore] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:cloud_firestore] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_core] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_core] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:google_sign_in_android] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/google_sign_in_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:google_sign_in_android] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/google_sign_in_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/Utpal.Gohain/.gradle/caches/transforms-3/2cd42c421c5fcc666c6d478b9d0f93cc/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/Utpal.Gohain/.gradle/caches/transforms-3/2cd42c421c5fcc666c6d478b9d0f93cc/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/Utpal.Gohain/.gradle/caches/transforms-3/1f3f3c7bf247259442b6db1757087228/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
@@ -147,10 +161,14 @@ MERGED from [com.google.firebase:firebase-analytics:21.2.0] /Users/Utpal.Gohain/
 MERGED from [com.google.firebase:firebase-analytics:21.2.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/6890b76743dcf1df35650871ecd4ef14/transformed/jetified-firebase-analytics-21.2.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth:21.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/43c5f263eb794b586c80a8388e37087b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:21:5-44
 MERGED from [com.google.firebase:firebase-auth:21.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/43c5f263eb794b586c80a8388e37087b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-firestore:24.4.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/401925b95afccb13c7fac3afcf55fe77/transformed/jetified-firebase-firestore-24.4.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore:24.4.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/401925b95afccb13c7fac3afcf55fe77/transformed/jetified-firebase-firestore-24.4.0/AndroidManifest.xml:6:5-8:41
 MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/285e822d29c844700c17710787a39cc1/transformed/jetified-play-services-measurement-api-21.2.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/285e822d29c844700c17710787a39cc1/transformed/jetified-play-services-measurement-api-21.2.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/8816ad617f24220d8544399eca1791cd/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/8816ad617f24220d8544399eca1791cd/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/24e7b62f90a052134e46a86ab0fb4f89/transformed/jetified-firebase-appcheck-interop-16.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/24e7b62f90a052134e46a86ab0fb4f89/transformed/jetified-firebase-appcheck-interop-16.1.0/AndroidManifest.xml:18:5-20:41
 MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/e68ba13c8172f46f3c33864f285e2e5f/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/e68ba13c8172f46f3c33864f285e2e5f/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/edc91e27a4567f9bfc56f4f116964551/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:19:5-21:41
@@ -165,6 +183,8 @@ MERGED from [com.google.android.gms:play-services-fido:19.0.0] /Users/Utpal.Goha
 MERGED from [com.google.android.gms:play-services-fido:19.0.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/8955a3a4e658c64b272d3cc40dac535e/transformed/jetified-play-services-fido-19.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/dd9c1e186ca760bae21c49feebd17e86/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/dd9c1e186ca760bae21c49feebd17e86/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/Utpal.Gohain/.gradle/caches/transforms-3/a03106724fc980773a0f7d4e9eda05c2/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/Utpal.Gohain/.gradle/caches/transforms-3/a03106724fc980773a0f7d4e9eda05c2/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/Utpal.Gohain/.gradle/caches/transforms-3/32dbb57a76a26ea3fd4575a4c674ce2e/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
 MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/Utpal.Gohain/.gradle/caches/transforms-3/32dbb57a76a26ea3fd4575a4c674ce2e/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
 MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/5bc7d4e1a9065a03cf2700b139626bff/transformed/jetified-firebase-installations-interop-17.1.0/AndroidManifest.xml:18:5-20:41
@@ -231,22 +251,28 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Utpal.Gohain/.grad
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/26dcbbfd0d6ef29fc456b20469d9c68e/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/6d199a50287313401ca5707ba8580989/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/6d199a50287313401ca5707ba8580989/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [io.grpc:grpc-android:1.48.1] /Users/Utpal.Gohain/.gradle/caches/transforms-3/b025be4549bc2a4ddb5d7f653c62a8f1/transformed/jetified-grpc-android-1.48.1/AndroidManifest.xml:5:5-7:41
+MERGED from [io.grpc:grpc-android:1.48.1] /Users/Utpal.Gohain/.gradle/caches/transforms-3/b025be4549bc2a4ddb5d7f653c62a8f1/transformed/jetified-grpc-android-1.48.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/8190a90120461b35bd613031b91eaad7/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/8190a90120461b35bd613031b91eaad7/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/e8991c05e5aa97ef430aee779507bef9/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/e8991c05e5aa97ef430aee779507bef9/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/android/app/src/debug/AndroidManifest.xml
-INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /Users/Utpal.Gohain/Documents/mobilecms/android/app/src/debug/AndroidManifest.xml:7:5-66
-MERGED from [:google_sign_in_android] /Users/Utpal.Gohain/Documents/mobilecms/build/google_sign_in_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
-MERGED from [:google_sign_in_android] /Users/Utpal.Gohain/Documents/mobilecms/build/google_sign_in_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+ADDED from /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/android/app/src/debug/AndroidManifest.xml:7:5-66
+MERGED from [:google_sign_in_android] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/google_sign_in_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:google_sign_in_android] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/google_sign_in_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
 MERGED from [com.google.firebase:firebase-auth:21.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/43c5f263eb794b586c80a8388e37087b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-auth:21.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/43c5f263eb794b586c80a8388e37087b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.4.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/401925b95afccb13c7fac3afcf55fe77/transformed/jetified-firebase-firestore-24.4.0/AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.4.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/401925b95afccb13c7fac3afcf55fe77/transformed/jetified-firebase-firestore-24.4.0/AndroidManifest.xml:13:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/285e822d29c844700c17710787a39cc1/transformed/jetified-play-services-measurement-api-21.2.0/AndroidManifest.xml:22:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/285e822d29c844700c17710787a39cc1/transformed/jetified-play-services-measurement-api-21.2.0/AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/e68ba13c8172f46f3c33864f285e2e5f/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:10:5-67
@@ -258,13 +284,17 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] /User
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/62b4db5e725a9f04436c17fd952fafc3/transformed/jetified-play-services-measurement-sdk-api-21.2.0/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/62b4db5e725a9f04436c17fd952fafc3/transformed/jetified-play-services-measurement-sdk-api-21.2.0/AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from /Users/Utpal.Gohain/Documents/mobilecms/android/app/src/debug/AndroidManifest.xml:7:22-64
+		ADDED from /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/android/app/src/debug/AndroidManifest.xml:7:22-64
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:firebase_auth] /Users/Utpal.Gohain/Documents/mobilecms/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
-MERGED from [:firebase_core] /Users/Utpal.Gohain/Documents/mobilecms/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
-MERGED from [:firebase_core] /Users/Utpal.Gohain/Documents/mobilecms/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
+ADDED from [:firebase_auth] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
+MERGED from [:cloud_firestore] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
+MERGED from [:cloud_firestore] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_core] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_core] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
 MERGED from [com.google.firebase:firebase-auth:21.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/43c5f263eb794b586c80a8388e37087b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:64:9-70:19
 MERGED from [com.google.firebase:firebase-auth:21.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/43c5f263eb794b586c80a8388e37087b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-firestore:24.4.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/401925b95afccb13c7fac3afcf55fe77/transformed/jetified-firebase-firestore-24.4.0/AndroidManifest.xml:16:9-22:19
+MERGED from [com.google.firebase:firebase-firestore:24.4.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/401925b95afccb13c7fac3afcf55fe77/transformed/jetified-firebase-firestore-24.4.0/AndroidManifest.xml:16:9-22:19
 MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/285e822d29c844700c17710787a39cc1/transformed/jetified-play-services-measurement-api-21.2.0/AndroidManifest.xml:28:9-34:19
 MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/285e822d29c844700c17710787a39cc1/transformed/jetified-play-services-measurement-api-21.2.0/AndroidManifest.xml:28:9-34:19
 MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/e68ba13c8172f46f3c33864f285e2e5f/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:14:9-20:19
@@ -278,19 +308,25 @@ MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/Utpal.Gohain/.gr
 	android:directBootAware
 		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/edc91e27a4567f9bfc56f4f116964551/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:34:13-43
 	android:name
-		ADDED from [:firebase_auth] /Users/Utpal.Gohain/Documents/mobilecms/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:10:18-89
+		ADDED from [:firebase_auth] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:10:18-89
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
-ADDED from [:firebase_auth] /Users/Utpal.Gohain/Documents/mobilecms/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
+ADDED from [:firebase_auth] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
 	android:value
-		ADDED from [:firebase_auth] /Users/Utpal.Gohain/Documents/mobilecms/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
+		ADDED from [:firebase_auth] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
 	android:name
-		ADDED from [:firebase_auth] /Users/Utpal.Gohain/Documents/mobilecms/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
+		ADDED from [:firebase_auth] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar
+ADDED from [:cloud_firestore] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [:cloud_firestore] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [:cloud_firestore] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-134
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
-ADDED from [:firebase_core] /Users/Utpal.Gohain/Documents/mobilecms/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
+ADDED from [:firebase_core] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
 	android:value
-		ADDED from [:firebase_core] /Users/Utpal.Gohain/Documents/mobilecms/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
+		ADDED from [:firebase_core] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
 	android:name
-		ADDED from [:firebase_core] /Users/Utpal.Gohain/Documents/mobilecms/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
+		ADDED from [:firebase_core] /Users/Utpal.Gohain/Documents/mobilecms/mobileCMS/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.0.0-beta04] /Users/Utpal.Gohain/.gradle/caches/transforms-3/1f3f3c7bf247259442b6db1757087228/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
 	android:required
@@ -305,6 +341,8 @@ ADDED from [androidx.window:window:1.0.0-beta04] /Users/Utpal.Gohain/.gradle/cac
 		ADDED from [androidx.window:window:1.0.0-beta04] /Users/Utpal.Gohain/.gradle/caches/transforms-3/1f3f3c7bf247259442b6db1757087228/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/43c5f263eb794b586c80a8388e37087b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.4.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/401925b95afccb13c7fac3afcf55fe77/transformed/jetified-firebase-firestore-24.4.0/AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.4.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/401925b95afccb13c7fac3afcf55fe77/transformed/jetified-firebase-firestore-24.4.0/AndroidManifest.xml:12:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/285e822d29c844700c17710787a39cc1/transformed/jetified-play-services-measurement-api-21.2.0/AndroidManifest.xml:23:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/285e822d29c844700c17710787a39cc1/transformed/jetified-play-services-measurement-api-21.2.0/AndroidManifest.xml:23:5-79
 MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/e68ba13c8172f46f3c33864f285e2e5f/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:9:5-79
@@ -315,6 +353,8 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] /User
 MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/9218c5f9abacc2970707abeeb72ba570/transformed/jetified-play-services-measurement-impl-21.2.0/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/62b4db5e725a9f04436c17fd952fafc3/transformed/jetified-play-services-measurement-sdk-api-21.2.0/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/62b4db5e725a9f04436c17fd952fafc3/transformed/jetified-play-services-measurement-sdk-api-21.2.0/AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.48.1] /Users/Utpal.Gohain/.gradle/caches/transforms-3/b025be4549bc2a4ddb5d7f653c62a8f1/transformed/jetified-grpc-android-1.48.1/AndroidManifest.xml:9:5-79
+MERGED from [io.grpc:grpc-android:1.48.1] /Users/Utpal.Gohain/.gradle/caches/transforms-3/b025be4549bc2a4ddb5d7f653c62a8f1/transformed/jetified-grpc-android-1.48.1/AndroidManifest.xml:9:5-79
 	android:name
 		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/43c5f263eb794b586c80a8388e37087b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:24:22-76
 activity#com.google.firebase.auth.internal.GenericIdpActivity
@@ -371,6 +411,12 @@ ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/Utpal.Gohain/.gradl
 		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/43c5f263eb794b586c80a8388e37087b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:69:17-82
 	android:name
 		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/43c5f263eb794b586c80a8388e37087b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:68:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.4.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/401925b95afccb13c7fac3afcf55fe77/transformed/jetified-firebase-firestore-24.4.0/AndroidManifest.xml:19:13-21:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.4.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/401925b95afccb13c7fac3afcf55fe77/transformed/jetified-firebase-firestore-24.4.0/AndroidManifest.xml:21:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.4.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/401925b95afccb13c7fac3afcf55fe77/transformed/jetified-firebase-firestore-24.4.0/AndroidManifest.xml:20:17-111
 uses-permission#android.permission.WAKE_LOCK
 ADDED from [com.google.android.gms:play-services-measurement-api:21.2.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/285e822d29c844700c17710787a39cc1/transformed/jetified-play-services-measurement-api-21.2.0/AndroidManifest.xml:24:5-68
 MERGED from [com.google.android.gms:play-services-measurement:21.2.0] /Users/Utpal.Gohain/.gradle/caches/transforms-3/4f798f85c0940465988e6e53736fc540/transformed/jetified-play-services-measurement-21.2.0/AndroidManifest.xml:25:5-68

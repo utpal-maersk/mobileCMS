@@ -13,15 +13,17 @@ class SignUpPage extends StatefulWidget {
 class _SignUpPageState extends State<SignUpPage> {
   final TextEditingController SignUpNameController = TextEditingController();
   final TextEditingController SignUpPasswordController = TextEditingController();
-
+  final Color primaryColor = Color(0xff18203d);
+  final Color secondaryColor = Color(0xff232c51);
+  final Color logoGreen = Color(0xff25bcbb);
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-   backgroundColor: Color(0xFFE44E11),
+   backgroundColor: secondaryColor,
 
       appBar: AppBar(
         title: Text('Sign Up ',textAlign: TextAlign.center,),
-        backgroundColor: Colors.transparent,
+        backgroundColor: secondaryColor,
         elevation: 0,
         centerTitle: true,
       ),
@@ -72,6 +74,7 @@ class _SignUpPageState extends State<SignUpPage> {
                   autocorrect: false,
                   controller: SignUpPasswordController,
                   decoration: InputDecoration(
+
                       border: OutlineInputBorder(),
                       labelText: 'Password',
                       labelStyle: TextStyle(color: Colors.white),
