@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "39582704460",
+    "project_id": "loginsign-68eea",
+    "storage_bucket": "loginsign-68eea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39582704460:android:8718648733d22fb66da5e9",
+        "android_client_info": {
+          "package_name": "com.example.mobilecms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39582704460-o9671q8tu0e77kgrokshvbia4md1m2n6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobilecms",
+            "certificate_hash": "f6b3d484aa83bf1d97da0997334c152d6f289e8a"
+          }
+        },
+        {
+          "client_id": "39582704460-1t4amuviqscbdkc01ekeundeqjc3mjfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4oEjv5VXoya_izP8PFSAPYCe-aiU59Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39582704460-1t4amuviqscbdkc01ekeundeqjc3mjfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
